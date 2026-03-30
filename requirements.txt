@@ -3,4 +3,4 @@ flask==3.1.0
 groq==0.15.0
 flask-cors==3.0.10
 python-dotenv==0.21.0
-networkx=2.8.4
+networkx==2.8.4
