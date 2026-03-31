@@ -36,7 +36,7 @@ def initialize():
     graph_engine.build_graph()
 
     # Create query processor, pass API key if needed
-    query_processor = QueryProcessor(graph_engine, api_key=GROQ_API_KEY)
+    query_processor = QueryProcessor(graph_engine)
 
     print("✅ System ready!")
 
