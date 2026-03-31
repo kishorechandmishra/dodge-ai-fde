@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-[Deploy URL will be added here]
+https://dodge-ai-fde-12.onrender.com/
 
 ## 📋 Overview
 
@@ -209,6 +209,6 @@ March 2026
 ---
 
 **Assignment Submission:**
-- Demo: [URL]
-- GitHub: [URL]
+- Demo: https://dodge-ai-fde-12.onrender.com/
+- GitHub: https://github.com/kishorechandmishra/dodge-ai-fde
 - AI Sessions: Included in repo
